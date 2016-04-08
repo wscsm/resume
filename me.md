@@ -100,7 +100,7 @@
 
 不是特别熟但是能很快掌握的技能
 
-- 前端：PHP/HTML
+- 前端：HTML/JavaScript
 - 设计：PhotoShop/Sketch
 - 单元测试：PHPUnit/SimpleTest/Qunit
 - 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
