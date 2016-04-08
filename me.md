@@ -97,13 +97,12 @@
 - 后台开发：C/C++/PHP/Shell
 - 后端系统：Solaris/HP-UX/IBM-AIX/Linux/Nginx/MySQL
 - 版本管理：svn/git
+- 微信公众号：接口很熟悉
 
 不是特别熟但是能很快掌握的技能
 
 - 前端：HTML/JavaScript
 - 设计：PhotoShop/Sketch
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
 
 ---
 
